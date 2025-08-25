@@ -1,0 +1,8 @@
+C:\Users\dell\Back end\c-sharp-consoles\Task2\EvenOrOddCounter\bin\Debug\EvenOrOddCounter.exe.config
+C:\Users\dell\Back end\c-sharp-consoles\Task2\EvenOrOddCounter\bin\Debug\EvenOrOddCounter.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task2\EvenOrOddCounter\bin\Debug\EvenOrOddCounter.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task2\EvenOrOddCounter\obj\Debug\EvenOrOddCounter.csproj.AssemblyReference.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task2\EvenOrOddCounter\obj\Debug\EvenOrOddCounter.csproj.CoreCompileInputs.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task2\EvenOrOddCounter\obj\Debug\EvenOrOddCounter.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task2\EvenOrOddCounter\obj\Debug\EvenOrOddCounter.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task2\EvenOrOddCounter\obj\Debug\EvenOrOddCounter.exe.config
