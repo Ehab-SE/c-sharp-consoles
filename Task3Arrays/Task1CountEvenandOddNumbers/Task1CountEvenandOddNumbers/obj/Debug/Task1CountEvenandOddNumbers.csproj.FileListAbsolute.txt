@@ -1,0 +1,8 @@
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task1CountEvenandOddNumbers\Task1CountEvenandOddNumbers\bin\Debug\Task1CountEvenandOddNumbers.exe.config
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task1CountEvenandOddNumbers\Task1CountEvenandOddNumbers\bin\Debug\Task1CountEvenandOddNumbers.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task1CountEvenandOddNumbers\Task1CountEvenandOddNumbers\bin\Debug\Task1CountEvenandOddNumbers.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task1CountEvenandOddNumbers\Task1CountEvenandOddNumbers\obj\Debug\Task1CountEvenandOddNumbers.csproj.AssemblyReference.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task1CountEvenandOddNumbers\Task1CountEvenandOddNumbers\obj\Debug\Task1CountEvenandOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task1CountEvenandOddNumbers\Task1CountEvenandOddNumbers\obj\Debug\Task1CountEvenandOddNumbers.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task1CountEvenandOddNumbers\Task1CountEvenandOddNumbers\obj\Debug\Task1CountEvenandOddNumbers.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task1CountEvenandOddNumbers\Task1CountEvenandOddNumbers\obj\Debug\Task1CountEvenandOddNumbers.exe.config

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2FindtheMaximumandMinimum", "Task2FindtheMaximumandMinimum\Task2FindtheMaximumandMinimum.csproj", "{A42DAE3C-218B-4D85-B320-2122456CEF4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A42DAE3C-218B-4D85-B320-2122456CEF4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42DAE3C-218B-4D85-B320-2122456CEF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42DAE3C-218B-4D85-B320-2122456CEF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42DAE3C-218B-4D85-B320-2122456CEF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA906565-C4B0-47C3-ABF4-4065C0E4EB05}
+	EndGlobalSection
+EndGlobal

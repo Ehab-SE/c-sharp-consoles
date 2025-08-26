@@ -1,0 +1,8 @@
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task5DiagonalElementsofa2DArray\Task5DiagonalElementsofa2DArray\obj\Debug\Task5DiagonalElementsofa2DArray.csproj.AssemblyReference.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task5DiagonalElementsofa2DArray\Task5DiagonalElementsofa2DArray\obj\Debug\Task5DiagonalElementsofa2DArray.csproj.CoreCompileInputs.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task5DiagonalElementsofa2DArray\Task5DiagonalElementsofa2DArray\bin\Debug\Task5DiagonalElementsofa2DArray.exe.config
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task5DiagonalElementsofa2DArray\Task5DiagonalElementsofa2DArray\bin\Debug\Task5DiagonalElementsofa2DArray.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task5DiagonalElementsofa2DArray\Task5DiagonalElementsofa2DArray\bin\Debug\Task5DiagonalElementsofa2DArray.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task5DiagonalElementsofa2DArray\Task5DiagonalElementsofa2DArray\obj\Debug\Task5DiagonalElementsofa2DArray.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task5DiagonalElementsofa2DArray\Task5DiagonalElementsofa2DArray\obj\Debug\Task5DiagonalElementsofa2DArray.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task5DiagonalElementsofa2DArray\Task5DiagonalElementsofa2DArray\obj\Debug\Task5DiagonalElementsofa2DArray.exe.config

@@ -1,0 +1,8 @@
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task2FindtheMaximumandMinimum\Task2FindtheMaximumandMinimum\bin\Debug\Task2FindtheMaximumandMinimum.exe.config
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task2FindtheMaximumandMinimum\Task2FindtheMaximumandMinimum\bin\Debug\Task2FindtheMaximumandMinimum.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task2FindtheMaximumandMinimum\Task2FindtheMaximumandMinimum\bin\Debug\Task2FindtheMaximumandMinimum.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task2FindtheMaximumandMinimum\Task2FindtheMaximumandMinimum\obj\Debug\Task2FindtheMaximumandMinimum.csproj.AssemblyReference.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task2FindtheMaximumandMinimum\Task2FindtheMaximumandMinimum\obj\Debug\Task2FindtheMaximumandMinimum.csproj.CoreCompileInputs.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task2FindtheMaximumandMinimum\Task2FindtheMaximumandMinimum\obj\Debug\Task2FindtheMaximumandMinimum.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task2FindtheMaximumandMinimum\Task2FindtheMaximumandMinimum\obj\Debug\Task2FindtheMaximumandMinimum.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task2FindtheMaximumandMinimum\Task2FindtheMaximumandMinimum\obj\Debug\Task2FindtheMaximumandMinimum.exe.config

@@ -1,0 +1,8 @@
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task3SumOfEachRowInA2dArray\Task3SumOfEachRowInA2dArray\bin\Debug\Task3SumOfEachRowInA2dArray.exe.config
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task3SumOfEachRowInA2dArray\Task3SumOfEachRowInA2dArray\bin\Debug\Task3SumOfEachRowInA2dArray.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task3SumOfEachRowInA2dArray\Task3SumOfEachRowInA2dArray\bin\Debug\Task3SumOfEachRowInA2dArray.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task3SumOfEachRowInA2dArray\Task3SumOfEachRowInA2dArray\obj\Debug\Task3SumOfEachRowInA2dArray.csproj.AssemblyReference.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task3SumOfEachRowInA2dArray\Task3SumOfEachRowInA2dArray\obj\Debug\Task3SumOfEachRowInA2dArray.csproj.CoreCompileInputs.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task3SumOfEachRowInA2dArray\Task3SumOfEachRowInA2dArray\obj\Debug\Task3SumOfEachRowInA2dArray.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task3SumOfEachRowInA2dArray\Task3SumOfEachRowInA2dArray\obj\Debug\Task3SumOfEachRowInA2dArray.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task3SumOfEachRowInA2dArray\Task3SumOfEachRowInA2dArray\obj\Debug\Task3SumOfEachRowInA2dArray.exe.config

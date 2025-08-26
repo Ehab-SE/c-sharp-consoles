@@ -1,0 +1,7 @@
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task4SearchForaNumber\Task4SearchForaNumber\bin\Debug\Task4SearchForaNumber.exe.config
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task4SearchForaNumber\Task4SearchForaNumber\bin\Debug\Task4SearchForaNumber.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task4SearchForaNumber\Task4SearchForaNumber\bin\Debug\Task4SearchForaNumber.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task4SearchForaNumber\Task4SearchForaNumber\obj\Debug\Task4SearchForaNumber.csproj.AssemblyReference.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task4SearchForaNumber\Task4SearchForaNumber\obj\Debug\Task4SearchForaNumber.csproj.CoreCompileInputs.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task4SearchForaNumber\Task4SearchForaNumber\obj\Debug\Task4SearchForaNumber.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task3Arrays\Task4SearchForaNumber\Task4SearchForaNumber\obj\Debug\Task4SearchForaNumber.pdb

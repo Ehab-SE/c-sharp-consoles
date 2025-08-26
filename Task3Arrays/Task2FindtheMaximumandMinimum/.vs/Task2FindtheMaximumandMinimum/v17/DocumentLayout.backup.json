@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Back end\\c-sharp-consoles\\Task3Arrays\\Task2FindtheMaximumandMinimum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A42DAE3C-218B-4D85-B320-2122456CEF4E}|Task2FindtheMaximumandMinimum\\Task2FindtheMaximumandMinimum.csproj|c:\\users\\dell\\back end\\c-sharp-consoles\\task3arrays\\task2findthemaximumandminimum\\task2findthemaximumandminimum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42DAE3C-218B-4D85-B320-2122456CEF4E}|Task2FindtheMaximumandMinimum\\Task2FindtheMaximumandMinimum.csproj|solutionrelative:task2findthemaximumandminimum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Back end\\c-sharp-consoles\\Task3Arrays\\Task2FindtheMaximumandMinimum\\Task2FindtheMaximumandMinimum\\Program.cs",
+              "RelativeDocumentMoniker": "Task2FindtheMaximumandMinimum\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Back end\\c-sharp-consoles\\Task3Arrays\\Task2FindtheMaximumandMinimum\\Task2FindtheMaximumandMinimum\\Program.cs*",
+              "RelativeToolTip": "Task2FindtheMaximumandMinimum\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:28:27.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
