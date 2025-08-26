@@ -1,0 +1,8 @@
+C:\Users\dell\Back end\c-sharp-consoles\Task2\SumOfPositiveNumbers\SumOfPositiveNumbers\bin\Debug\SumOfPositiveNumbers.exe.config
+C:\Users\dell\Back end\c-sharp-consoles\Task2\SumOfPositiveNumbers\SumOfPositiveNumbers\bin\Debug\SumOfPositiveNumbers.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task2\SumOfPositiveNumbers\SumOfPositiveNumbers\bin\Debug\SumOfPositiveNumbers.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task2\SumOfPositiveNumbers\SumOfPositiveNumbers\obj\Debug\SumOfPositiveNumbers.csproj.AssemblyReference.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task2\SumOfPositiveNumbers\SumOfPositiveNumbers\obj\Debug\SumOfPositiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task2\SumOfPositiveNumbers\SumOfPositiveNumbers\obj\Debug\SumOfPositiveNumbers.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task2\SumOfPositiveNumbers\SumOfPositiveNumbers\obj\Debug\SumOfPositiveNumbers.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task2\SumOfPositiveNumbers\SumOfPositiveNumbers\obj\Debug\SumOfPositiveNumbers.exe.config

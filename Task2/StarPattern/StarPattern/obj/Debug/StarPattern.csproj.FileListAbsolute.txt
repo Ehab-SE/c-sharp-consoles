@@ -1,0 +1,7 @@
+C:\Users\dell\Back end\c-sharp-consoles\Task2\StarPattern\StarPattern\bin\Debug\StarPattern.exe.config
+C:\Users\dell\Back end\c-sharp-consoles\Task2\StarPattern\StarPattern\bin\Debug\StarPattern.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task2\StarPattern\StarPattern\bin\Debug\StarPattern.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task2\StarPattern\StarPattern\obj\Debug\StarPattern.csproj.AssemblyReference.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task2\StarPattern\StarPattern\obj\Debug\StarPattern.csproj.CoreCompileInputs.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task2\StarPattern\StarPattern\obj\Debug\StarPattern.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task2\StarPattern\StarPattern\obj\Debug\StarPattern.pdb
