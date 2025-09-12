@@ -1,0 +1,8 @@
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task1StoreAndDisplayBookInformation\obj\Debug\Task1StoreAndDisplayBookInformation.csproj.AssemblyReference.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task1StoreAndDisplayBookInformation\obj\Debug\Task1StoreAndDisplayBookInformation.csproj.CoreCompileInputs.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task1StoreAndDisplayBookInformation\bin\Debug\Task1StoreAndDisplayBookInformation.exe.config
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task1StoreAndDisplayBookInformation\bin\Debug\Task1StoreAndDisplayBookInformation.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task1StoreAndDisplayBookInformation\bin\Debug\Task1StoreAndDisplayBookInformation.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task1StoreAndDisplayBookInformation\obj\Debug\Task1StoreAndDisplayBookInformation.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task1StoreAndDisplayBookInformation\obj\Debug\Task1StoreAndDisplayBookInformation.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task1StoreAndDisplayBookInformation\obj\Debug\Task1StoreAndDisplayBookInformation.exe.config

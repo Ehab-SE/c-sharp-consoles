@@ -1,0 +1,8 @@
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task3EmployeeDatabasewithDepartment\bin\Debug\Task3EmployeeDatabasewithDepartment.exe.config
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task3EmployeeDatabasewithDepartment\bin\Debug\Task3EmployeeDatabasewithDepartment.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task3EmployeeDatabasewithDepartment\bin\Debug\Task3EmployeeDatabasewithDepartment.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task3EmployeeDatabasewithDepartment\obj\Debug\Task3EmployeeDatabasewithDepartment.csproj.AssemblyReference.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task3EmployeeDatabasewithDepartment\obj\Debug\Task3EmployeeDatabasewithDepartment.csproj.CoreCompileInputs.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task3EmployeeDatabasewithDepartment\obj\Debug\Task3EmployeeDatabasewithDepartment.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task3EmployeeDatabasewithDepartment\obj\Debug\Task3EmployeeDatabasewithDepartment.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task3EmployeeDatabasewithDepartment\obj\Debug\Task3EmployeeDatabasewithDepartment.exe.config

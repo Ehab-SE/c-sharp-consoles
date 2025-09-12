@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Back end\\c-sharp-consoles\\Task4EnumStruct\\Task4EnumStruct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{766A0BE3-2E05-4BBA-92D2-E06B441CE69B}|Task3EmployeeDatabasewithDepartment\\Task3EmployeeDatabasewithDepartment.csproj|c:\\users\\dell\\back end\\c-sharp-consoles\\task4enumstruct\\task4enumstruct\\task3employeedatabasewithdepartment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766A0BE3-2E05-4BBA-92D2-E06B441CE69B}|Task3EmployeeDatabasewithDepartment\\Task3EmployeeDatabasewithDepartment.csproj|solutionrelative:task3employeedatabasewithdepartment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Back end\\c-sharp-consoles\\Task4EnumStruct\\Task4EnumStruct\\Task3EmployeeDatabasewithDepartment\\Program.cs",
+              "RelativeDocumentMoniker": "Task3EmployeeDatabasewithDepartment\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Back end\\c-sharp-consoles\\Task4EnumStruct\\Task4EnumStruct\\Task3EmployeeDatabasewithDepartment\\Program.cs",
+              "RelativeToolTip": "Task3EmployeeDatabasewithDepartment\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwD8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T07:52:24.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task2StudentGrades\bin\Debug\Task2StudentGrades.exe.config
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task2StudentGrades\bin\Debug\Task2StudentGrades.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task2StudentGrades\bin\Debug\Task2StudentGrades.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task2StudentGrades\obj\Debug\Task2StudentGrades.csproj.AssemblyReference.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task2StudentGrades\obj\Debug\Task2StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task2StudentGrades\obj\Debug\Task2StudentGrades.exe
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task2StudentGrades\obj\Debug\Task2StudentGrades.pdb
+C:\Users\dell\Back end\c-sharp-consoles\Task4EnumStruct\Task4EnumStruct\Task2StudentGrades\obj\Debug\Task2StudentGrades.exe.config
