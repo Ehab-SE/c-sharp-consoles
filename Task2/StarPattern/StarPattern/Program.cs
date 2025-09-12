@@ -12,6 +12,10 @@ namespace StarPattern
         {
             Console.WriteLine("Enter a number");
             int num = int.Parse(Console.ReadLine());
+            if(num <= 0)
+                {
+                    Console.WriteLine("Invalid input");
+                }
             string line = "";
             for (int i = 0; i < num; i++) {
                 line += "*";
